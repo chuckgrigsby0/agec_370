@@ -1,8 +1,9 @@
-# Local files
-docs/
-notebooks_local/
+# Local files (tracked instead in the private repo via .git-private — see README.md)
+master_supporting_docs/
+code/notebooks_local/
 .env
 CLAUDE.md
+MEMORY.md
 .vscode/
 data/raw/
 nul
@@ -11,6 +12,12 @@ figures/
 tmpclaude*
 src/
 .gitignore
+quality_reports/
+templates/
+CHANGELOG.md
+.git-private/
+.gitignore-private
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

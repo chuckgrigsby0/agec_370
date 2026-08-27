@@ -1,1 +1,1 @@
-## Data visualizations for agricultural price analysis
+## Course Materials for AGEC: 370 - Agricultural Price Analysis
